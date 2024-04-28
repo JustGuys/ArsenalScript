@@ -12,7 +12,7 @@ local settings = {
     Aimbot_TeamCheck = true,
     Aimbot_Draw_FOV = true,
     Aimbot_FOV_Radius = 200,
-    Aimbot_FOV_Color = Color3.fromRGB(0,0,0)
+    Aimbot_FOV_Color = Color3.fromRGB(255,0,0)
 }
 
 local fovcircle = Drawing.new("Circle")
